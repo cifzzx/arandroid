@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\work\\AndroidStudioProjects\\ARSimpleProj\\aRSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\settings.png",
+        "source": "C:\\work\\AndroidStudioProjects\\ARSimpleProj\\aRSimple\\build\\intermediates\\exploded-aar\\ARSimpleProj\\aRBaseLib\\unspecified\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidStudioProjects\\ARSimpleProj\\aRSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\work\\AndroidStudioProjects\\ARSimpleProj\\aRSimple\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

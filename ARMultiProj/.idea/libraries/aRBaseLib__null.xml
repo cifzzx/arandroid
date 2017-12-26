@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aRBaseLib::null">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aRMulti/build/intermediates/exploded-aar/ARMultiProj/aRBaseLib/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/aRMulti/build/intermediates/exploded-aar/ARMultiProj/aRBaseLib/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

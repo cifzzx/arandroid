@@ -1,0 +1,224 @@
+[
+    {
+        "outputFile": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 19,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 55,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 55,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 74,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 54,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 54,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 69,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 69,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 70,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 70,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 64,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 64,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 73,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\work\\AndroidStudioProjects\\ARSimpleNativeCarsProj\\aRSimpleNativeCars\\build\\intermediates\\exploded-aar\\ARSimpleNativeCarsProj\\aRBaseLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 73,
+                        "endOffset": 961
+                    }
+                }
+            }
+        ]
+    }
+]
